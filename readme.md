@@ -18,6 +18,10 @@ Inspired by [palashmon](https://github.com/palashmon/JavaScript30#logs), I'm goi
 - [ ] The Background picture takes too long to load 
 - [ ] May comeback to implement better pattern and asyncronous play, so that the sound will not overriden when other sound plays.
 
+### [Day 2 [14 August 2018]](#) 
+
+**Thoughts**
+
 ## Community #JavaScript30 Content
 
 Feel free to submit a PR adding a link to your own recaps, guides or reviews!
