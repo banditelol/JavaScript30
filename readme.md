@@ -6,6 +6,14 @@ Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
 
 Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
+## Daily Log
+
+Inspired by [palashmon](https://github.com/palashmon/JavaScript30#logs), I'm goint to keep track of what I learn in daily basis as I'm going through this 30 days of Javascript.
+
+### Day 1 [13 August 2018]
+
+**Thoughts** : 
+
 ## Community #JavaScript30 Content
 
 Feel free to submit a PR adding a link to your own recaps, guides or reviews!
