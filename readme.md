@@ -10,9 +10,13 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
 Inspired by [palashmon](https://github.com/palashmon/JavaScript30#logs), I'm goint to keep track of what I learn in daily basis as I'm going through this 30 days of Javascript.
 
-### [Day 1 [13-14 August 2018]](adit-drumkit.surge.sh) 
+### [Day 1 [13-14 August 2018]](https://adit-drumkit.surge.sh) 
 
-**Thoughts** : In this challenge I learned about how I could select attributes and class using `querySelector()` methods. And the possibilities of using eventlsitener to execute a function based on certain events. But I still find it difficult to remember common events name or any tools to help remind me. Since It took me 1 hour to figure out I misspelled `transitionend` with `transitioned`.
+**Thoughts** : In this challenge I learned about how I could select attributes and class using `querySelector()` methods. And the possibilities of using eventlsitener to execute a function based on certain events. But I still find it difficult to remember common events name or any tools to help remind me. Since It took me 1 hour to figure out I misspelled `transitionend` with `transitioned`.  
+**improvements & potential** : I noticed some improvements that can be done to the finished products:  
+- [ ] The first time I load the page and press any keyboard button there's slight lag in playing the sound
+- [ ] The Background picture takes too long to load 
+- [ ] May comeback to implement better pattern and asyncronous play, so that the sound will not overriden when other sound plays.
 
 ## Community #JavaScript30 Content
 
